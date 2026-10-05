@@ -1,0 +1,11 @@
+path: C:/Users/saniy/Documents/SonarShield/dataset/side-scan-sonar-object-detection-challenge
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: aircraft
+  1: fish
+  2: other
+  3: shipwreck
